@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  scroll-behavior: smooth;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  color: #102033;
+  background: #ffffff;
+}
+
+.dark body {
+  color: #f7fbff;
+  background: #06172c;
+}
+
+::selection {
+  background: #f5b531;
+  color: #062a55;
+}
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.86);
+  backdrop-filter: blur(18px);
+}
+
+.dark .glass-panel {
+  background: rgba(6, 23, 44, 0.82);
+}
+
+.section-shell {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.focus-ring {
+  @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-academy-gold;
+}
+
+.hero-grid {
+  background-image:
+    linear-gradient(rgba(15, 94, 197, 0.09) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(15, 94, 197, 0.09) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
+
+.dark .hero-grid {
+  background-image:
+    linear-gradient(rgba(245, 181, 49, 0.09) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(245, 181, 49, 0.09) 1px, transparent 1px);
+}

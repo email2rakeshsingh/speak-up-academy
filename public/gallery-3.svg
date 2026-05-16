@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="430" viewBox="0 0 520 430">
+  <rect width="520" height="430" fill="#eaf4ff"/>
+  <rect x="70" y="80" width="380" height="200" rx="24" fill="#fff" stroke="#cfe4fb" stroke-width="4"/>
+  <path d="M118 138h160M118 176h235M118 214h190" stroke="#0f5ec5" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="384" cy="210" r="52" fill="#f5b531"/>
+  <path d="M360 212h35l24-20v64l-24-20h-35v-24z" fill="#062a55"/>
+  <text x="260" y="354" text-anchor="middle" font-family="Arial" font-size="24" font-weight="800" fill="#062a55">Communication sessions</text>
+</svg>

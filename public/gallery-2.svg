@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="430" viewBox="0 0 520 430">
+  <rect width="520" height="430" fill="#fff7e6"/>
+  <circle cx="260" cy="140" r="72" fill="#f5b531"/>
+  <path d="M158 340c28-112 176-112 204 0" fill="#062a55"/>
+  <path d="M244 142l-26-28 18-17 16 17 37-48 22 16-55 72z" fill="#fff"/>
+  <rect x="96" y="298" width="328" height="48" rx="24" fill="#fff"/>
+  <text x="260" y="330" text-anchor="middle" font-family="Arial" font-size="20" font-weight="800" fill="#0f5ec5">Student success moments</text>
+</svg>

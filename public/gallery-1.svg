@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="430" viewBox="0 0 520 430">
+  <rect width="520" height="430" fill="#eaf4ff"/>
+  <rect x="54" y="48" width="412" height="276" rx="22" fill="#062a55"/>
+  <rect x="82" y="78" width="162" height="92" rx="12" fill="#fff"/>
+  <rect x="276" y="78" width="162" height="92" rx="12" fill="#fff"/>
+  <rect x="82" y="202" width="162" height="92" rx="12" fill="#fff"/>
+  <rect x="276" y="202" width="162" height="92" rx="12" fill="#fff"/>
+  <circle cx="163" cy="116" r="24" fill="#f5b531"/>
+  <circle cx="357" cy="116" r="24" fill="#0f5ec5"/>
+  <circle cx="163" cy="240" r="24" fill="#0f5ec5"/>
+  <circle cx="357" cy="240" r="24" fill="#f5b531"/>
+  <text x="260" y="374" text-anchor="middle" font-family="Arial" font-size="24" font-weight="800" fill="#062a55">Online class screenshots</text>
+</svg>

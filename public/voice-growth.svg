@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="480" viewBox="0 0 620 480" role="img" aria-labelledby="title">
+  <title id="title">Career communication growth</title>
+  <rect width="620" height="480" rx="32" fill="#eaf4ff"/>
+  <path d="M82 358c80-5 127-34 181-100 62-75 115-111 275-126" fill="none" stroke="#0f5ec5" stroke-width="18" stroke-linecap="round"/>
+  <path d="M483 104l61 25-52 42" fill="none" stroke="#f5b531" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="72" y="294" width="94" height="72" rx="14" fill="#fff"/>
+  <rect x="205" y="236" width="94" height="130" rx="14" fill="#fff"/>
+  <rect x="338" y="178" width="94" height="188" rx="14" fill="#fff"/>
+  <rect x="470" y="142" width="94" height="224" rx="14" fill="#fff"/>
+  <circle cx="155" cy="138" r="50" fill="#062a55"/>
+  <path d="M129 140h34l28-23v72l-28-23h-34v-26z" fill="#f5b531"/>
+  <path d="M217 122c19 18 19 49 0 67M241 101c33 31 33 81 0 112" fill="none" stroke="#0f5ec5" stroke-width="12" stroke-linecap="round"/>
+  <text x="310" y="417" text-anchor="middle" font-family="Arial" font-size="24" font-weight="800" fill="#062a55">Confidence grows with practice</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="620" viewBox="0 0 760 620" role="img" aria-labelledby="title">
+  <title id="title">Online English communication class for professionals</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#eaf4ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" x2="1">
+      <stop stop-color="#0f5ec5"/>
+      <stop offset="1" stop-color="#062a55"/>
+    </linearGradient>
+  </defs>
+  <rect x="72" y="60" width="610" height="420" rx="28" fill="url(#bg)" stroke="#cfe4fb" stroke-width="4"/>
+  <rect x="125" y="112" width="510" height="306" rx="20" fill="url(#screen)"/>
+  <rect x="159" y="148" width="206" height="104" rx="16" fill="#fff" opacity=".94"/>
+  <rect x="393" y="148" width="206" height="104" rx="16" fill="#fff" opacity=".94"/>
+  <rect x="159" y="281" width="206" height="104" rx="16" fill="#fff" opacity=".94"/>
+  <rect x="393" y="281" width="206" height="104" rx="16" fill="#fff" opacity=".94"/>
+  <g>
+    <circle cx="262" cy="184" r="24" fill="#f5b531"/>
+    <path d="M218 235c12-29 76-29 88 0" fill="#0f5ec5"/>
+    <rect x="197" y="263" width="130" height="8" rx="4" fill="#d8e7f8"/>
+  </g>
+  <g>
+    <circle cx="496" cy="184" r="24" fill="#0f5ec5"/>
+    <path d="M452 235c12-29 76-29 88 0" fill="#f5b531"/>
+    <rect x="431" y="263" width="130" height="8" rx="4" fill="#d8e7f8"/>
+  </g>
+  <g>
+    <circle cx="262" cy="317" r="24" fill="#062a55"/>
+    <path d="M218 368c12-29 76-29 88 0" fill="#0f5ec5"/>
+    <rect x="197" y="396" width="130" height="8" rx="4" fill="#d8e7f8"/>
+  </g>
+  <g>
+    <circle cx="496" cy="317" r="24" fill="#f5b531"/>
+    <path d="M452 368c12-29 76-29 88 0" fill="#062a55"/>
+    <rect x="431" y="396" width="130" height="8" rx="4" fill="#d8e7f8"/>
+  </g>
+  <rect x="284" y="481" width="185" height="24" rx="12" fill="#062a55"/>
+  <rect x="220" y="505" width="313" height="36" rx="18" fill="#d5e6f7"/>
+  <g transform="translate(70 390)">
+    <circle cx="82" cy="57" r="44" fill="#f5b531"/>
+    <path d="M26 151c17-61 95-61 112 0" fill="#062a55"/>
+    <rect x="0" y="138" width="164" height="46" rx="23" fill="#fff" stroke="#d8e7f8" stroke-width="4"/>
+    <text x="82" y="167" text-anchor="middle" font-family="Arial" font-size="18" font-weight="800" fill="#062a55">Coach</text>
+  </g>
+  <g transform="translate(535 392)">
+    <rect x="0" y="0" width="146" height="98" rx="18" fill="#fff" stroke="#d8e7f8" stroke-width="4"/>
+    <path d="M24 30h96M24 52h80M24 74h58" stroke="#0f5ec5" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="114" cy="72" r="20" fill="#f5b531"/>
+  </g>
+</svg>
